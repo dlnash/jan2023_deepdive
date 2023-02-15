@@ -1,0 +1,26 @@
+name: jan2023_deepdive
+channels:
+  - conda-forge
+  - defaults  
+dependencies:
+  - python
+  - pip
+  - numpy
+  - matplotlib
+  - pandas
+  - netcdf4
+  - xarray
+  - cartopy
+  - cmocean
+  - seaborn
+  - cmocean
+  - ipykernel
+  - geopandas
+  - pyyaml
+  - dask
+  - metpy
+
+  
+
+
+
